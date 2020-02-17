@@ -10,4 +10,4 @@ For localhost: http://localhost/zee5.php?c=zeecinema or http://localhost/play.ph
 
 Best For Android Live TV App Owners.
 
-Contact Us For More Detailed Guide
+# Contact Us For More Detailed Guide
