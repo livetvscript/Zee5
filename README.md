@@ -1,7 +1,7 @@
 # Zee5 Live TV Script
 Zee5 Live TV Channels Script For Sale
 
-Zee5 php script only runs on Linux. You must have Indian IP. You can use any Indian Hosting or Amazon AWS.
+Zee5 php script only runs on Linux. You must have Indian IP. You can use any Indian Hosting or Amazon AWS. Contact us and we can guide you how to get it for free.
 
 # For Purchase: buylivetvscript@protonmail.com
 Purchase the script and run on Indian hosting or localhost (If you are indian). This script will work with all live TV channels streaming on Zee5 Platform.
